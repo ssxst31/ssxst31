@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi! I'm Palanbyul %20&fontSize=90" />
-### Hi! I'm Palanbyul
-### I'm a Frontend Web Developer
+
+<div style= "margin:auto">I'm a Frontend Web Developer</div>
 ## 💪 SKILLS
 <div style= "display: flex">
   <img src ="https://img.shields.io/badge/-HTML5-orange?&style=for-the-badge&logo=HTML5&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>
