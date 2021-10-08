@@ -17,7 +17,7 @@
     <img src ="https://img.shields.io/badge/-Visual Studio Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
   <img src ="https://img.shields.io/badge/-Amazon AWS-232F3E?&style=for-the-badge&logo=Amazon AWS&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
 </div>
-
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ssxst31
 <!--
 **ssxst31/ssxst31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
