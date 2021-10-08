@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hi! I'm Palanbyul %20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi! I'm Palanbyul %20&fontSize=90" />
 ### Hi! I'm Palanbyul
 ### I'm a Frontend Web Developer
 ## 💪 SKILLS
