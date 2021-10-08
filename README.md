@@ -1,5 +1,5 @@
-### Hi 안녕 !
-
+### Hi! I'm Palanbyul
+### I'm a Frontend Web Developer
 ## 💪 SKILLS
 <div style= "display: flex">
   <img src ="https://img.shields.io/badge/-HTML5-orange?&style=for-the-badge&logo=HTML5&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>
