@@ -13,7 +13,7 @@ I'm a Frontend Web Developer. 🌱
 <img src ="https://img.shields.io/badge/-Scss-ff69b4?&style=for-the-badge&logo=Scopus&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
  <img src ="https://img.shields.io/badge/-styled--components-ff96b4?&style=for-the-badge&logo=styled-components&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
   <img src ="https://img.shields.io/badge/-TypeScript-informational?&style=for-the-badge&logo=TypeScript&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>  
-  <img src ="https://img.shields.io/badge/-Tailwind-CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>
+  <img src ="https://img.shields.io/badge/-Tailwind-CSS?style=flat-square&logo=Tailwind-CSS&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>
 
 </div>
 
