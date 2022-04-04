@@ -24,4 +24,4 @@ I'm a Frontend Web Developer. 🌱
   <img src ="https://img.shields.io/badge/-Amazon AWS-232F3E?&style=for-the-badge&logo=Amazon AWS&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
 </div>
 
-<div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssxst31&show_icons=true&locale=en&layout=compact" alt="ssxst31" /></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssxst31&show_icons=true&locale=en&layout=compact" alt="ssxst31" />
