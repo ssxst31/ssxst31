@@ -14,6 +14,7 @@ I'm a Frontend Web Developer. 🌱
  <img src ="https://img.shields.io/badge/-styled--components-ff96b4?&style=for-the-badge&logo=styled-components&logoColor=white" style= "height: auto; margin-left: 10px; margin-right : 10px"/>
   <img src ="https://img.shields.io/badge/-TypeScript-informational?&style=for-the-badge&logo=TypeScript&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>  
   <img src ="https://img.shields.io/badge/-tailwind--css-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>
+    <img src ="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=Next.js&logoColor=white" style= "height: auto; margin-left: 10px; margin-right :    10px"/>
 
 </div>
 
